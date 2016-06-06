@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<login>
+	<detail>
+		<username>t59113</username>
+		<password>t59113</password>
+		<database>1</database>
+		<apiserverip>127.0.0.1</apiserverip>
+		<apiserverport>9099</apiserverport>
+		<filepath>C:\Temp\</filepath>
+		<logpath>C:\Temp\logs\</logpath>		
+	</detail>
+</login>
